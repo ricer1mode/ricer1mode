@@ -1,16 +1,18 @@
-## Hi there 👋
+#  Ricer_mode 
 
-<!--
-**ricer1mode/ricer1mode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+> **Status:** Ricing Linux / Customizing Arch 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  My Rice Stack & Tools
+
+| Component                    | Tools Used |
+| :--------------------------- | :--------- |
+| **Window Manager (WM)**      | `hyprland` |
+| **Desktop Environment (DE)** | `Arch`     |
+| **Scripts & Configs**        | `Bash`     |
+| **Tools**                    | `Git`      |
+
+---
+
+<img src="https://koshka.top/uploads/posts/2021-12/1639297648_3-koshka-top-p-chernaya-koshka-iz-multika-3.jpg" width="500" alt="cat" />
